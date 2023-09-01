@@ -1,4 +1,5 @@
 # Resultados e motivos de saidas da Empresa
+
 ## Motivos que afetaram a saida de funcionarios da empresa
 ---
 
